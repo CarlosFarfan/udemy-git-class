@@ -24,3 +24,4 @@ C001 Hacer Click en Contenedores
     Close Browser
 
 C002 Caso de Prueba Nuevo
+    Open Homepage
