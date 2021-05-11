@@ -25,3 +25,4 @@ C001 Hacer Click en Contenedores
 
 C002 Caso de Prueba Nuevo
     Open Homepage
+    Close Browser
