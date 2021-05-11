@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generator="Robot 4.0.1 (Python 3.9.4 on win32)" generated="20210511 11:12:34.376" rpa="false" schemaversion="2">
+<suite id="s1" name="trucosElementos" source="C:\Users\Samsung\Desktop\Arrays y Loops\udemy-git-class\trucosElementos.robot">
+<test id="s1-t1">
+<status status="FAIL" starttime="20210511 11:12:37.683" endtime="20210511 11:12:37.683">Test case name cannot be empty.</status>
+</test>
+<status status="FAIL" starttime="20210511 11:12:34.391" endtime="20210511 11:12:37.683"/>
+</suite>
+<statistics>
+<total>
+<stat pass="0" fail="1" skip="0">All Tests</stat>
+</total>
+<tag>
+</tag>
+<suite>
+<stat pass="0" fail="1" skip="0" id="s1" name="trucosElementos">trucosElementos</stat>
+</suite>
+</statistics>
+<errors>
+</errors>
+</robot>
